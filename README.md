@@ -8,7 +8,7 @@ A white operations room, like the ones in spy films, with the centre of Brisbane
 
 We built it for a blog post on our Field Notes:
 
-**[Your next dashboard will look like a Hollywood CIA screen](https://kooka-pacific.com/blog/one-red-car)**
+**[Your next dashboard will look like a Hollywood CIA screen](https://kooka-pacific.com/blog/hollywood-cia-dashboard)**
 
 The post argues that a good dashboard works like that film scene: everything in quiet grey, and colour only for the one thing that needs you. This room is the experiment that goes with it. Open it, don't look for anything, and notice where your eyes go.
 
