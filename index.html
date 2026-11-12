@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ops room</title>
+    <style>
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        background: #f1f2f3;
+      }
+
+      #room {
+        position: relative;
+        height: 100%;
+      }
+
+      #room canvas {
+        position: absolute;
+        inset: 0;
+        display: block;
+      }
+
+      p {
+        position: fixed;
+        right: 12px;
+        bottom: 8px;
+        margin: 0;
+        color: #6b7280;
+        font: 12px/1.4 system-ui, sans-serif;
+      }
+
+      a {
+        color: inherit;
+      }
+    </style>
+  </head>
+  <body>
+    <div
+      id="room"
+      role="img"
+      aria-label="A white operations room with rows of desks facing a wall of screens. The big screen shows the centre of Brisbane in white and grey, with traffic in soft colours and one car in red."
+    ></div>
+    <p>Map data © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap contributors</a></p>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
