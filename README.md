@@ -45,9 +45,11 @@ It's about a thousand lines of TypeScript on top of [three.js](https://threejs.o
 - Buildings stand at about a third of their real height, so the streets between the towers stay visible.
 - Many buildings in the map data have no height at all. Those got nine metres, which is a guess.
 
-## Map data
+## Licence
 
-The map data is © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) and available under the Open Database License (ODbL).
+The code is under the [MIT licence](LICENSE), so use it for whatever you like.
+
+The map data in `src/brisbane-cbd.json` is © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) and available under the Open Database License (ODbL).
 
 ## Who made this
 
