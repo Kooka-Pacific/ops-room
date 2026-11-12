@@ -6,7 +6,7 @@ A white operations room, like the ones in spy films, with the centre of Brisbane
 
 ## Why this exists
 
-I built it for a blog post on Kooka's Field Notes:
+We built it for a blog post on our Field Notes:
 
 **[Your next dashboard will look like a Hollywood CIA screen](https://kooka-pacific.com/blog/one-red-car)**
 
@@ -16,7 +16,7 @@ The code is here for anyone who wants to see how it works or borrow a part of it
 
 ## Run it
 
-You need [Node.js](https://nodejs.org) 20 or newer.
+You need [Node.js](https://nodejs.org) 20.19 or newer.
 
 ```bash
 npm install
